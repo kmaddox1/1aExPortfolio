@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+<section id="skills-section" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-4">Skills</h2>
+        <div class="row text-center">
+            <!-- Skill 1: HTML -->
+            <div class="col-lg-3 col-md-6 mb-4">
+                <img src="html-logo.png" class="img-fluid" alt="HTML Logo">
+                <h4 class="mt-3">HTML</h4>
+                <p>HyperText Markup Language</p>
+            </div>
+            <!-- Skill 2: CSS -->
+            <div class="col-lg-3 col-md-6 mb-4">
+                <img src="css-logo.png" class="img-fluid" alt="CSS Logo">
+                <h4 class="mt-3">CSS</h4>
+                <p>Cascading Style Sheets</p>
+            </div>
+            <!-- Skill 3: Bootstrap -->
+            <div class="col-lg-3 col-md-6 mb-4">
+                <img src="bootstrap-logo.png" class="img-fluid" alt="Bootstrap Logo">
+                <h4 class="mt-3">Bootstrap</h4>
+                <p>Front-end Framework</p>
+            </div>
+            <!-- Skill 4: JavaScript -->
+            <div class="col-lg-3 col-md-6 mb-4">
+                <img src="javascript-logo.png" class="img-fluid" alt="JavaScript Logo">
+                <h4 class="mt-3">JavaScript</h4>
+                <p>Programming Language</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<!-- Skills Section -->
+<section id="skills-section" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center">Skills</h2>
+        <div class="row">
+            <!-- Add your skills here -->
+            <div class="col-md-4">
+                <h3>Skill 1</h3>
+                <p>Description</p>
+            </div>
+            <div class="col-md-4">
+                <h3>Skill 2</h3>
+                <p>Description</p>
+            </div>
+            <div class="col-md-4">
+                <h3>Skill 3</h3>
+                <p>Description</p>
+            </div>
+        </div>
+    </div>
+</section>
